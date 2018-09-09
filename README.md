@@ -1,11 +1,11 @@
+# update version :
+ The new version implements the lates technology like hibernate , spring mvc,... also it uses maven so you can check the pom.xml to see the libraries used 
+
 # Network Server Administrator
   is an application that allows system administartor to controle machines on the network throught a client installed on the machines
   which allows sending files,messages and other features like locking the system and executing command over http and ws protocol
 
 
-# Future enhancement 
-  -We will start to use hibernate for a  better manipulation of the DB
- 
 
 ## License : MIT
 
